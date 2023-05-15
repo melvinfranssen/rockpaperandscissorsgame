@@ -1,0 +1,22 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    font-family: 'ATC Krueger', cursive;
+    font-size: 50px;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-image: url("spaceamogus.jpg");
+    text-align: center;
+}
+#playerText{
+    color: cornflowerblue;
+}
+#computerText{
+    color: crimson;
+}    
+#resultText{
+    color:cornsilk;
+}
