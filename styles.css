@@ -11,6 +11,22 @@
     background-image: url("spaceamogus.jpg");
     text-align: center;
 }
+
+.choiceBtn {
+    background-color: cornsilk;
+    border: 4px;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+
 #playerText{
     color: cornflowerblue;
 }
